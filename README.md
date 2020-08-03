@@ -15,8 +15,8 @@
     
    <h3> Education 👨🏻‍🎓</h3>
    <ul>
-  <li>Master of Computer Applications - PES University, class of 2020</li>
-  <li>Bachelor of Computer Applications - T.John College, class of 2016</li>
+  <li>Master of Computer Applications - PES University, Class of 2020</li>
+  <li>Bachelor of Computer Applications - T.John College, Class of 2016</li>
    </ul>
   </body>
 </html>
