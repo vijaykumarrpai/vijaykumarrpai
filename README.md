@@ -2,11 +2,11 @@
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vijaykumarrpai&hide=contribs,prs&show_icons=true&theme=onedark)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=Caption-Generator&theme=onedark)](https://github.com/anuraghazra/Caption-Generator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=simple-weather-app&theme=gruvbox)](https://github.com/anuraghazra/simple-weather-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=mca-code&theme=dracula)](https://github.com/anuraghazra/mca-code)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=bulk-email-aggregator&theme=nightowl)](https://github.com/anuraghazra/bulk-email-aggregator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=courier-system&theme=nightowl)](https://github.com/anuraghazra/courier-system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=Caption-Generator&theme=onedark)](https://github.com/vijaykumarrpai/Caption-Generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=simple-weather-app&theme=gruvbox)](https://github.com/vijaykumarrpai/simple-weather-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=mca-code&theme=dracula)](https://github.com/vijaykumarrpai/mca-code)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=bulk-email-aggregator&theme=nightowl)](https://github.com/vijaykumarrpai/bulk-email-aggregator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarrpai&repo=courier-system&theme=nightowl)](https://github.com/vijaykumarrpai/courier-system)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarrpai&layout=compact)](https://github.com/vijaykumarrpai/github-readme-stats)
 <!--
