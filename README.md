@@ -1,4 +1,25 @@
-### Hi there, I'm Vijay! 👋
+### Hi there, I'm Vijay! 👋🎮🚙🏔️👨🏻‍🎓🌮   [![HitCount](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai.svg)](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai)
+
+- 🤔 I’m currently looking forward to new opportunities.
+- 🌱 I’m currently learning more on Machine Learning and React.js.
+- 💬 Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies 😋.
+
+<html>
+  <head></head>
+  <body>
+    <h3> Skills 💻</h3>
+    <ul>
+      <li>Programming: Python (Data Science), C, C++, Java, JavaScript (MERN), MySQL</li>
+      <li>Relevant Skills: Git, Data Analytics, Machine Learning, IoT, Cloud Computing, Full Stack Web Development (MERN Stack)</li>
+    </ul>
+    
+   <h3> Education 👨🏻‍🎓</h3>
+   <ul>
+  <li>Master of Computer Applications - PES University, class of 2020</li>
+  <li>Bachelor of Computer Applications - T.John College, class of 2016</li>
+   </ul>
+  </body>
+</html>
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vijaykumarrpai&hide=contribs,prs&show_icons=true&theme=onedark)
 
