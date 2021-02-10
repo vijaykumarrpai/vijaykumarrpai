@@ -1,7 +1,7 @@
 ### Hi there, I'm Vijay! 👋🎮🚙🏔️👨🏻‍🎓🌮   [![HitCount](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai.svg)](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai)
 
-- 🤔 I’m currently looking forward to new opportunities.
-- 🌱 I’m currently learning more on Machine Learning and React.js.
+- 👨 Associate Software Engineer at Augmento Labs.
+- 🌱 Well knowledged in MERN stack, Heroku Deployment and Cloud Computing. Looking forward to learn more about Machine Learning and Cyber Security.
 - 💬 Ask me about Technologies, Automobiles, Places to travel, Gaming and various Food Delicacies 😋.
 
 <html>
