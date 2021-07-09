@@ -1,4 +1,4 @@
-### Hi there, I'm Vijay! 👋🎮🚙🏔️👨🏻‍🎓🌮   [![HitCount](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai.svg)](http://hits.dwyl.com/vijaykumarrpai/vijaykumarrpai)
+### Hi there, I'm Vijay! 👋🎮🚙🏔️👨🏻‍🎓🌮    ![](https://komarev.com/ghpvc/?username=vijaykumarrpai)
 
 - 👨 Associate Software Engineer at Augmento Labs.
 - 🌱 Well knowledged in MERN stack, Heroku Deployment and Cloud Computing. Looking forward to learn more about Machine Learning and Cyber Security.
@@ -9,7 +9,7 @@
   <body>
     <h3> Skills 💻</h3>
     <ul>
-      <li>Programming: Python (Data Science), C, C++, Java, JavaScript (MERN), MySQL</li>
+      <li>Programming: Python (Data Science), C, C++, Java, JavaScript (MERN), MySQL, .NET</li>
       <li>Relevant Skills: Git, Data Analytics, Machine Learning, IoT, Cloud Computing, Full Stack Web Development (MERN Stack)</li>
     </ul>
     
